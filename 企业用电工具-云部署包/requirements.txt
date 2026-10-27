@@ -1,0 +1,5 @@
+streamlit==1.66.1
+pandas==3.1.0
+xlrd==2.0.2
+openpyxl==3.1.5
+altair==6.3.0
